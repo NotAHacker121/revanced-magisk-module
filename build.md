@@ -1,8 +1,6 @@
-GooglePhotos: 7.36.0.779865778  
 Music: 8.05.51  
-Music-Extended: 8.05.51  
-Spotify: 9.0.60.607  
-TikTok: 36.5.4  
+Music-Extended: 8.12.53  
+Spotify: 9.0.62.603  
 YouTube: 20.13.41  
 YouTube-Extended: 19.47.53  
 
@@ -12,9 +10,9 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
-Patches: inotia00/patches-5.6.2.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)
+Patches: inotia00/patches-5.7.1.rvp  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.7.1)
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.30.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.30.0)  
+Patches: ReVanced/patches-5.31.2.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.31.2)  
